@@ -1,13 +1,13 @@
 /* styles.css */
 body {
-    background-color: #f4f4f4; /* Color de fondo claro para el cuerpo de la página */
+    background-color: #35b540; /* Color de fondo claro para el cuerpo de la página */
     font-family: Arial, sans-serif; /* Tipo de fuente genérica */
     margin: 20px; /* Espacio alrededor del contenido del cuerpo */
     color: #333; /* Color de texto oscuro */
 }
 
 h1 {
-    color: #aa7f1a; /* Color azul para el encabezado H1 */
+    color: #90a47a; /* Color azul para el encabezado H1 */
     text-align: center; /* Centrar el texto del encabezado */
 }
 
